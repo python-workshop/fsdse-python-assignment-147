@@ -1,8 +1,9 @@
 # fsdse-python-assignment-147
 
-# Find a build order given a list of projects and dependencies.
+# Implement breadth-first search on a grap.
+
 ## Constraints
-* Is it possible to have a cyclic graph as the input?
+* Is the graph directed?
 	* Yes
 * Can we assume we already have Graph and Node classes?
 	* Yes
